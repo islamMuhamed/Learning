@@ -1,3 +1,3 @@
 Hello, i'm islam
 are you okay ? 
-i edited this file in featureA branch => i will remove it 
+i edited this file in featureA branch => no no don't remove that file
